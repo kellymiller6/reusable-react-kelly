@@ -78,3 +78,18 @@ typings/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# build component library
+/lib
+
+#build docs
+/docs
+
+#generated component data
+/config/componentData.js
+
+#VSCode launch configuration
+launch.json
+
+#Webstorm
+.idea
